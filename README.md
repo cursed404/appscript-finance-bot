@@ -1,3 +1,8 @@
+https://docs.google.com/spreadsheets/d/1UoTbOupUtjMKoivLuEPMqwvfYrBxz-_kzIisvtLlasw/edit?gid=1349349533#gid=1349349533
+Таблица
+@appscriptTestDdsBot
+Бот
+
 Этот Telegram-бот помогает фиксировать финансовые операции в Google Таблице. 
 Пользователь вводит данные о транзакции (тип операции, статья, сумма, комментарий), 
 а бот записывает их в лист «Операции».
